@@ -10,17 +10,7 @@ class ApplicationController < Sinatra::Base
     erb :index
   end
 
-  post '/login' do
-
-  end
-
-  get '/account' do
-
-  end
-
-  get '/logout' do
-
-  end
+  
 
 
 end
